@@ -6,15 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfcb7907-b269-4c08-96e2-9e5d4b657895" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EF-Core/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakAwayConsole/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataAccess/BreakAwayContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataAccess/Configurations/DestinationConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataAccess/Configurations/LodgingConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Destination.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Lodging.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataAccess/Configurations/PersonConfiguration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Address.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EF-Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EF-Core/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747294831186</updated>
-      <workItem from="1747294832739" duration="4748000" />
+      <workItem from="1747294832739" duration="7145000" />
     </task>
     <servers />
   </component>
