@@ -1,4 +1,4 @@
-# EF Core Learning Repository
+# EF Core Repository
 
 This repository contains my personal learning exercises, code snippets, and project examples using **Entity Framework Core**.
 
@@ -15,8 +15,4 @@ They cover topics like:
 - Clean Architecture with EF Core
 
 ---
-
-💡 **Note:** This repo is for educational purposes and experimentation. It may not follow production-level best practices in every case.
-
-Feel free to explore, fork, and learn!
 
